@@ -1,0 +1,10 @@
+langchain==0.0.352
+openai==0.28.1
+datasets==2.10.1 
+tqdm 
+matplotlib 
+seaborn
+pypdf 
+tiktoken==0.5.1
+faiss-cpu==1.7.4
+python-dotenv
